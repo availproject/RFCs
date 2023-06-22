@@ -11,7 +11,7 @@ Do you have an idea how to improve Avail?
 1. Head over to the Ideas section on our [discussions](https://github.com/availproject/RFCs/discussions) page.
 2. Check out the existing ideas or submit an idea of your own.
 3. Once your idea has been discussed and you are happy to create a more detailed specification for the idea, you can submit it as an RFC in the RFC section of of the [discussions](https://github.com/availproject/RFCs/discussions) page.
-4. Use the Example RFC as a template for your RFC. 
+4. Use the [Template RFC](https://github.com/availproject/RFCs/discussions/2) as a guiding template for your RFC structure. 
 5. Mark the RFC with the `Draft` label. 
 6. Share the RFC on our [Discord](https://discord.gg/y6fHnxZQX8). It is up to you to drive the discussion and get sufficient feedback.
 7. Once the RFC has been accepted by at least 2 core developers, change the label to 'Ready for implementation'.
