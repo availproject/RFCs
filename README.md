@@ -1,4 +1,4 @@
-# Reuqsts for Comments (RFCs)
+# Requests for Comments (RFCs)
 Repository containing Requests for Comments (RFCs) for the development of Avail, the essential base layer for modern blockchains.
 
 Building Avail and the Avail ecosystem is a community effort, therefore we welcome anyone to provide feedback on the proposed protocol and implementation changes. As well as propose changes on their own. 
