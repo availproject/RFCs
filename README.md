@@ -17,7 +17,9 @@ Do you have an idea how to improve Avail?
 7. Once the RFC has been accepted by at least 2 core developers, change the label to 'Ready for implementation'.
 
 ## List of RFCs
-
+| #   | Title  | Description| Status |
+|-----|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+| 1   | [Template RFC](https://github.com/availproject/RFCs/discussions/2)                       | Template to build RFCs on                                                                               | Draft |                                                                     | 
 
 ## Need help?
 
